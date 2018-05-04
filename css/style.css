@@ -21,9 +21,6 @@ header {
     border-left: none;
     border-top: none;
 }
-
-nav {}
-
 nav ul {
     margin: 0;
     padding: 0;
@@ -35,7 +32,7 @@ nav ul li {
 }
 
 
- .fa {
+.fa {
     color: #ecd1af;
     font-size: 35px;
     padding: 45px 0px 45px 22px;
@@ -284,12 +281,14 @@ nav ul li {
     flex-wrap: wrap;
 }
 
-.block__3 .box3 a:hover{
-	opacity: 0.3;
+.block__3 .box3 a:hover {
+    opacity: 0.3;
 }
-.example2 a:hover{
-	opacity: 0.3;
+
+.example2 a:hover {
+    opacity: 0.3;
 }
+
 .block__3 .box3 img {
     margin-right: 20px;
     margin-top: 20px;
